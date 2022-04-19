@@ -1,7 +1,7 @@
 body, ul, li, h1, h2, a{
   margin: 0;
   padding: 0;
-  font-family: cursive;
+  font-family: Arial, Helvetica, sans-serif;
 }
 /* header starts here */
 header{
@@ -52,7 +52,7 @@ header h1{
 /* nav starts here */
 nav{
   position: sticky;
-  top: 115px;
+  top: 103px;
   background-color: wheat;
   padding: 20px;
 }
