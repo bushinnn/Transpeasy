@@ -5,7 +5,7 @@ body, ul, li, h1, h2, a{
 }
 /* header starts here */
 header{
-  background-color: sienna;
+  background-color: orangered;
   padding: 20px;
   text-align: center;
   color: bisque;
@@ -17,7 +17,7 @@ header{
  
 }
 header h1{
-  border: 4px dashed bisque;
+  border: 4px dashed cornsilk;
   display: inline-block;
   border-radius: 28px;
   padding: 12px;
@@ -36,7 +36,7 @@ header h1{
   position: absolute;
   left: 0;
   top: 30%;
-  background-color: bisque;
+  background-color: cornsilk;
   padding: 20px;
   color: black;
 }
@@ -53,7 +53,7 @@ header h1{
 nav{
   position: sticky;
   top: 103px;
-  background-color: wheat;
+  background-color: darkgrey;
   padding: 20px;
 }
 nav li a{
@@ -105,7 +105,7 @@ article p{
 
 /* section starts here */
 section.join{
-  background-color: wheat ;
+  background-color: beige ;
   text-align: center;
   padding: 30px 12px;
 }
@@ -124,7 +124,7 @@ form input{
 
 /* footer starts here */
 footer{
-  background-color: sienna;
+  background-color: beige;
   padding: 10px;
   text-align: center;
   font-size: 20px;
